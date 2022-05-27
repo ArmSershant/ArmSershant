@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ArmSershant
+- 👋 Hi, I’m Vardges
 - 👀 I’m interested in web developing
 - 🌱 I’m currently learning programming
 - 💞️ I’m looking to collaborate on web development companies here is my CV --> [VARDGES CV English.docx](https://github.com/ArmSershant/ArmSershant/files/8786453/VARDGES.CV.English.docx)
