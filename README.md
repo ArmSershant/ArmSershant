@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vardges</h1>
-<h3 align="center">I’m a motivated fullstack developer with experience in building websites and games. I’m experienced in HTML(BEM), CSS3(SASS RSCSS), Bootstrap, Tailwind CSS, MIUI, JavaScript, Typescript, React(Redux, Redux toolkit), Angular(NGRX), SQL, Node.js, Nest.js, Firebase, Git, HubStaff, Web3, Jira, Godot, GDScript, Wordpress.</h3>
+<h3 align="center">I’m a motivated fullstack developer with experience in building websites and games. I’m experienced in HTML(BEM), CSS3(SASS RSCSS), Bootstrap, Tailwind CSS, MIUI, JavaScript, Typescript, React(Redux, Redux toolkit), Angular(NGRX), SQL, Node.js, Nest.js, Firebase, Git, HubStaff, Web3(WaxJS), Jira, Godot, GDScript, Wordpress.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=armsershant&label=Profile%20views&color=0e75b6&style=flat" alt="armsershant" /> </p>
 
