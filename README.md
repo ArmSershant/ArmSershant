@@ -1,3 +1,6 @@
+<!-- Capsule Render Header -->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header"/>
+
 <h1 align="center">Hi 👋, I'm Vardges</h1>
 <h3 align="center">I’m a motivated fullstack developer with experience in building websites and games. I’m experienced in HTML(BEM), CSS3(SASS RSCSS), Bootstrap, Tailwind CSS, MIUI, JavaScript, Typescript, React(Redux, Redux toolkit), Angular(NGRX), SQL, Node.js, Nest.js, Firebase, Git, HubStaff, Web3(WaxJS), Jira, Godot, GDScript, Wordpress.</h3>
 
@@ -31,3 +34,6 @@
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=armsershant&" alt="armsershant" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=armsershant&show_icons=true&locale=en&layout=compact" alt="armsershant" /></p>
+
+<!-- Bottom Header -->
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
